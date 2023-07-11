@@ -1,0 +1,16 @@
+{
+  "item.tntmod.superpowder": "Super Powder",
+  "item.tntmod.super_ingot": "Super Ingot",
+  "item.tntmod.PURE_IRON": "Pure Iron",
+  "item.tntmod.CARBON": "Carbon",
+  "item.tntmod.THROW_BOTTLE_CARBON_DIOXIDE ": "Throw Bottle of Carbon Dioxide",
+  "item.tntmod.STEEL ": "Steel",
+  "item.tntmod.LITHIUM ": "Lithium",
+
+  "block.tntmod.super_tnt": "Super TNT",
+  "block.tntmod.de_atomizer": "De-atomizer",
+  "block.tntmod.super_ore": "Super Ore",
+  "block.tntmod.super_block": "Super Block",
+
+  "itemGroup.tntmod.superpowder": "GO BOOM!"
+}

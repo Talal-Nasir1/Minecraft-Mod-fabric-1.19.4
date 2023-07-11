@@ -1,0 +1,20 @@
+// 1.19.4	2023-07-11T12:21:57.2580337	TntMod/Model Definitions
+a7cbc4a28ea53547bde6a6f1b2f65388aff364df assets\tntmod\models\item\de_atomizer.json
+96e3d5f85dcfbb2b04f54976f2f8de3e7219bcb1 assets\tntmod\models\item\throw_bottle_of_carbon_dioxide.json
+1196dde0a0feb3d7bc3b9322787b746d7adaefdc assets\tntmod\models\block\super_tnt.json
+725023d62a4b8d2de54f060c3772f59cd96dde33 assets\tntmod\models\item\lithium.json
+a54a918fc54ea3db335a8076f21dc3acd7678239 assets\tntmod\blockstates\de_atomizer.json
+64c9d4c2a54903ae9801fffe9a2187b9df9739be assets\tntmod\models\item\super_block.json
+b34cf6a95f1c2d968c347ca1bc499bbf07086b0a assets\tntmod\models\block\de_atomizer.json
+38ad8120c0e57048f010aa60b902fa964f8e8d6b assets\tntmod\blockstates\super_tnt.json
+6596f06b53ddf5b54c4a133f01e9dc81d7baa671 assets\tntmod\models\item\super_tnt.json
+adf5d175d554faae0cbb3186bd302d4623a233cb assets\tntmod\models\item\carbon.json
+a234e3fcadacd4fd0e70c6ccce4f3600e652aa18 assets\tntmod\blockstates\super_block.json
+f3808edb4405a3e44b04a65fd248ee0e07ab1f17 assets\tntmod\models\item\steel.json
+c9f51eaf5ba6ca98aeed2d8038b21d37248681b3 assets\tntmod\models\block\super_block.json
+71d2f330a973eccfd62395f9fe1020827bd8e710 assets\tntmod\blockstates\super_ore.json
+bbbdd097489c8eb82ad25fa2635c3fb5017eeb1a assets\tntmod\models\item\super_ore.json
+f5cb9f79e93f02eaac12b8f97bacaf6298cf98e4 assets\tntmod\models\item\superpowder.json
+25fef52daf88b350ffb00ec39d6f32d5a8db77f6 assets\tntmod\models\block\super_ore.json
+5239edb9e2cb64efb84aec869b05de08cfd5005d assets\tntmod\models\item\super_ingot.json
+cc7fb18010f2c16c4e370728dcf210773ded816c assets\tntmod\models\item\pure_iron.json

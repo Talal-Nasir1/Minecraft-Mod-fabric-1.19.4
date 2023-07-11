@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 3.0,
+  "group": "Super",
+  "ingredient": {
+    "item": "tntmod:superpowder"
+  },
+  "result": "tntmod:super_ingot"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tntmod:item/throw_bottle_of_carbon_dioxide"
+  }
+}
